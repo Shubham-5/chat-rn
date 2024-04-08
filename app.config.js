@@ -26,7 +26,7 @@ export default {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.sgirase08.rn-chat-app"
+      "package": "com.sgirase08.rn_chatapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
